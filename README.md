@@ -17,8 +17,8 @@ With TestMu AI (Formerly LambdaTest), you can run Spock + Gradle tests across re
 
 ### Prerequisites
 
-- [Java 21](https://www.oracle.com/java/technologies/downloads/) or later
-- [Gradle](https://gradle.org/install/) build tool
+- Java 21 or later
+- Gradle build tool
 - HyperExecute CLI — download the binary for your OS:
 
 | Operating System | CLI Download Link |
@@ -27,7 +27,7 @@ With TestMu AI (Formerly LambdaTest), you can run Spock + Gradle tests across re
 | Windows | https://downloads.lambdatest.com/hyperexecute/windows/hyperexecute.exe |
 | macOS | https://downloads.lambdatest.com/hyperexecute/darwin/hyperexecute |
 
-- A TestMu AI (Formerly LambdaTest) account — [sign up here](https://www.testmuai.com/register/)
+- A TestMu AI (Formerly LambdaTest) account — sign up here
 
 ### Setup
 
@@ -107,7 +107,7 @@ To run on the standard grid directly:
 ./gradlew runLambda
 ```
 
-Visit the [HyperExecute Dashboard](https://hyperexecute.lambdatest.com/hyperexecute) to monitor your job status and view detailed execution logs.
+Visit the HyperExecute Dashboard to monitor your job status and view detailed execution logs.
 
 ### Local testing with TestMu AI Tunnel
 
