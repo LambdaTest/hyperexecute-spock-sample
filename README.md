@@ -18,14 +18,7 @@ With TestMu AI (Formerly LambdaTest), you can run Spock + Gradle tests across re
 
 - Java 21 or later
 - Gradle build tool
-- HyperExecute CLI — download the binary for your OS:
-
-| Operating System | CLI Download Link |
-|-----------------|-------------------|
-| Linux | https://downloads.lambdatest.com/hyperexecute/linux/hyperexecute |
-| Windows | https://downloads.lambdatest.com/hyperexecute/windows/hyperexecute.exe |
-| macOS | https://downloads.lambdatest.com/hyperexecute/darwin/hyperexecute |
-
+- HyperExecute CLI — download the binary for your OS from the TestMu AI HyperExecute documentation
 - A TestMu AI (Formerly LambdaTest) account — sign up here
 
 ### Setup
